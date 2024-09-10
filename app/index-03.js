@@ -1,3 +1,15 @@
+function start() {
+    console.log('começou')
+}
+
+start()
+
+const startPlus = () => {
+    console.log('NLW Pocket JavaScript')
+}
+
+startPlus()
+
 // const start = () => {
 //     let count = 0
 //     while (count < 10) {
@@ -7,21 +19,3 @@
 // }
 
 // start()
-
-const start = () => {
-  while (true) {
-    let opcao = 'sair';
-    switch (opcao) {
-      case 'cadastrar':
-        console.log('vamos cadastrar');
-        break;
-      case 'litar':
-        console.log('vamos listar');
-        break;
-      case 'sair':
-        return;
-    }
-  }
-};
-
-start();

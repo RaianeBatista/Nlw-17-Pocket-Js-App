@@ -63,3 +63,12 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 [x] - switch
+
+## Módulos en Node.js:
+
+[x] - Importação de módulos (require, COmmonJS)
+[x] - Biblioteca/pacotes 'inquirer' para criar prompts interativos
+
+## Programação assícrona e Promises:
+
+[x] - Uso de funções assícronas (async/await)
