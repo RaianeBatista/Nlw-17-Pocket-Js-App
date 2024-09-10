@@ -3,9 +3,9 @@
 Maneira de dar instrução ao computador
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-**Algoritmos**: Sequencia de passos lógica e finita para resolução de um problema.
+**Algoritmos** : Sequencia de passos lógica e finita para resolução de um problema.
 
-## peças de uma linguagem
+## Peças de uma linguagem
 
 [x] - Comentários
 [x] - Declaração de variáveis (const, let)
@@ -36,8 +36,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Operadores
 
-[x] -  Operador de atribuição de valor =
-[x] -  Operador de concatenação +
+[x] -  Operador de atribuição de valor: =
+[x] -  Operador de concatenação: +
+[x] -  Operador de comparação: ==, !=, >, <, >=, =<
 
 ## Estrutura de dados:
 
@@ -63,6 +64,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 [x] - switch
+[x] - if/else
 
 ## Módulos en Node.js:
 
