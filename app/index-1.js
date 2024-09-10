@@ -18,3 +18,4 @@ const mensagem3 = 'Olá';//escopo global
 }
 
 console.log(mensagem3);
+
