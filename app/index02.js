@@ -28,4 +28,12 @@ meta.log(meta.value);
 //O acesso ao método é feito através do ponto .value
 const criarMeta = () => { };
 
-function criarMeta2() {}
+function criarMeta2() { }
+
+let metas3 = [
+    meta, 
+    {
+        value: 'caminhar 20 minutos todos os dias',
+        checked: true,
+    }
+]
