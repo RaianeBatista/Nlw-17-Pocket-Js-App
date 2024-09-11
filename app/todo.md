@@ -1,7 +1,7 @@
 - [x] Criar metas
 - [x] Listar metas:
 - [x] Metas realizadas
-- [x]   Metas abertas
+- [x] Metas abertas
 - [x] Mascar/Desmarcar metas como concluídas
-- [x]   -Remover/deletar metas
-      -Sistema de mensagens
+- [x] Remover/deletar metas
+- [x] Sistema de mensagens
